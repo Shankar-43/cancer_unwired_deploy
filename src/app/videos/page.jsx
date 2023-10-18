@@ -1,6 +1,6 @@
 import React from "react";
 import DoctorVideos from "@/components/Doctor-videos/doctorVideos";
-import "../../components/Sidebar/sidebar.css";
+import " ";
 
 const videos = () => {
   return (

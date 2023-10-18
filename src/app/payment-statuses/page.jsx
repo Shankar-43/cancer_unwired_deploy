@@ -1,5 +1,5 @@
 import PaymentStatus from '@/components/PaymentStatus/paymentStatus'
-import '../../components/Sidebar/sidebar.css'
+
 import '../../components/PaymentStatus/paymentStatus.css'
 import React from 'react'
 
