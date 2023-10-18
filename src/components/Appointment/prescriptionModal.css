@@ -1,0 +1,24 @@
+.custom-modal-header {
+  display: flow-root;
+}
+.black-content {
+  letter-spacing: 0px;
+  color: #5b5b5b;
+  font-size: 12px;
+  font-weight: 700;
+}
+.custom-modal-width {
+  max-width: 55%;
+}
+label.form-label.purple-content-2 {
+  color: #713c8f;
+  font-size: 12px;
+  font-weight: 500;
+}
+th.purple-content {
+  letter-spacing: 0px;
+  color: #8d4f9f;
+  font-size: 16px;
+  line-height: 17px;
+  font-weight: 700;
+}

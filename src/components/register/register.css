@@ -1,0 +1,371 @@
+/*----------------------------- Right col ------------------------------------------*/
+.drop-d-r:focus {
+  border-color: none;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.drop-d-r {
+  border-color: none;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.drop-d-r-code:focus {
+  border-color: none;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.drop-d-r-code {
+  color: #000000;
+  font-size: 16px;
+  border-color: none;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.col-back-r-d {
+  border: 1px solid #a14b9e;
+  border-radius: 0%;
+  margin-left: 12px;
+}
+
+.col-box-r-d {
+  font-size: 15px;
+
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border: 1px solid #e3e3e3;
+  border-radius: 3px;
+}
+.buttonDisabled {
+  display: block;
+}
+.select-drop-r select option:hover {
+  background-color: transparent; /* Change this to your desired background color or style */
+  /* Change this to your desired text color */
+  /* Add any other custom styling you want to apply on hover */
+}
+
+/*--------------------------------- Login Page ---------------------------------------*/
+
+.reg-left-leaf {
+  /* width: 150px;
+    height: 100px; */
+  position: absolute;
+  display: flex;
+  margin-left: -132px;
+  margin-top: 167px;
+}
+
+.reg-leftleaf-img {
+  width: 250px;
+  height: 200px;
+}
+.reg-right-leaf {
+  /* width: 150px;
+    height: 100px; */
+  position: absolute;
+  display: flex;
+  margin-left: 446px;
+  margin-top: 241px;
+}
+.reg-rightleaf-img {
+  height: 320px;
+  width: 270px;
+  margin-top: 31px;
+  margin-left: 12px;
+}
+.p-col-right {
+  padding-right: 0;
+}
+
+/* --------------------------------------------------------------------------- */
+.select-role {
+  border: 0;
+  color: #9426b2;
+}
+.select-drop-r {
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+.link-reg {
+  color: #8d4f9f;
+  text-decoration: none;
+  text-align: center;
+}
+
+label.form-all {
+  color: #707070;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+/* 
+label.thirtyDays {
+    color: #000000;
+    font-size: 15px;
+}
+
+label.otp {
+    color: #000000;
+    font-size: 15px;
+}
+
+input.thirtyDays:focus {
+    border-color: black;
+    box-shadow: 0 0 0 0 rgba(255, 255, 255);
+    background: #6F1C86;
+}
+
+input.thirtyDays:checked[type=radio] {
+    background-color: #6F1C86;
+    border-color: black;
+    background-image: none;
+}
+
+input.otp:focus {
+    border-color: black;
+    box-shadow: 0 0 0 0 rgba(255, 255, 255);
+    background: #6F1C86;
+}
+
+input.otp:checked[type=radio] {
+    background-color: #6F1C86;
+    border-color: black;
+    background-image: none;
+}
+
+.orange-btn {
+    background-color: #FF9A00;
+    border: 1px solid #FF9A00;
+    border-radius: 0;
+    width: 100%;
+    min-height: 50px;
+    margin-top: 30px;
+    box-shadow: 0px 3px 6px #00000029;
+} 
+
+.btn-primary:hover {
+    color: #FF9A00;
+    background-color: transparent;
+    border: 1px solid #FF9A00;
+}
+.custom-form {
+    margin-top: 10px;
+}*/
+
+/*------------------------------------- images ------------------------------------------*/
+.reg-left-leaf {
+  position: absolute;
+  display: flex;
+  margin-left: -200px;
+  margin-top: 155px;
+}
+
+.reg-leftleaf-img {
+  height: 360px;
+  width: 253px;
+}
+
+.reg-right-leaf {
+  position: absolute;
+  display: flex;
+  margin-left: 415px;
+  margin-top: 152px;
+}
+
+.reg-rightleaf-img {
+  height: 328px;
+  margin-top: 27px;
+  margin-left: 18px;
+}
+
+/* -------------------------------------------------------------------------------------- */
+.reg-col {
+  border-bottom: 4px solid #a64fa2;
+}
+.custom-regimage-panel {
+  background: transparent
+    linear-gradient(211deg, #9d2ba5 0%, #691d6f 39%, #37103a 100%) 0% 0%
+    no-repeat padding-box;
+}
+.doc-form {
+  width: 450px;
+  margin: auto;
+  overflow: hidden;
+  height: 45px;
+  border-bottom: 1px solid rgba(112, 112, 112, 0.23);
+}
+
+label.name {
+  color: #707070;
+  /* padding-top: 10px;
+    padding-bottom: 5px; */
+  font-size: 15px;
+}
+
+input.name {
+  border: 1px solid #a14b9e;
+  border-radius: 0%;
+}
+
+input.name:focus {
+  border-color: #a14b9e;
+  outline: 0;
+  box-shadow: 0px 3px 6px #00000029;
+}
+
+.terms {
+  text-decoration: none;
+  color: #a750a3;
+}
+
+.reg-form-box {
+  width: 450px;
+  margin: auto;
+  padding-top: 2px;
+}
+
+.para {
+  font-size: 14px;
+  padding-top: 5px;
+  color: #707070;
+}
+
+.form-group-box {
+  width: 450px;
+  margin: auto;
+  /* padding: 20px; */
+  box-shadow: 0px 3px 6px #00000038;
+  height: 580px;
+}
+
+.form-r-d {
+  padding: 0px 20px 0px 20px;
+}
+
+.top-d-r {
+  margin-top: 70px;
+}
+
+.join-us {
+  padding-left: 30px;
+}
+
+.enterOtpBlock {
+  display: flex;
+  justify-content: center;
+  font-size: 13px;
+}
+
+.otp-input {
+  width: 25px;
+  height: 25px;
+  padding-right: px;
+  margin-right: 6px;
+  text-align: center;
+}
+
+.otpBlock {
+  margin-top: -10px;
+}
+
+/* ----------------------------------doctor registration form style------------------------------------------ */
+.doc-container {
+  width: 450px;
+  overflow: hidden;
+  height: 45px;
+  box-shadow: 0px 0px 2px #00000038;
+  border-bottom: 1px solid rgba(112, 112, 112, 0.23);
+}
+.form-d-r {
+  margin: 20px;
+}
+
+.para-left {
+  font-size: 16px;
+  padding-top: 4px;
+  color: #707070;
+  font-weight: 500;
+}
+
+.join-doc {
+  letter-spacing: -0.48px;
+  color: #414146;
+  font-weight: 500;
+  font-size: 16px;
+  padding-left: 15px;
+  padding-top: 5px;
+}
+
+/* phone number input section */
+.intl-tel-input,
+.iti {
+  width: 100%;
+  color: #a64fa2;
+}
+.iti__arrow {
+  color: #a64fa2;
+}
+input#floatingInputPhone {
+  height: 40px;
+  width: 100%;
+  border: 1px solid #a14b9e;
+}
+
+.custom-input:focus {
+  outline: none;
+  border: none;
+}
+
+.intl-tel-input .iti-item {
+  color: #333;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+.password-validation-message {
+  font-size: smaller;
+  opacity: 0.5;
+}
+
+option {
+  background-color: white;
+  color: #a64fa2;
+}
+
+option:hover {
+  background-color: #a64fa2;
+  color: #fff;
+}
+.password-section {
+  position: relative;
+}
+.password-icon-1 {
+  position: absolute;
+  right: 3%;
+  top: 30%;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+.password-icon-2 {
+  position: absolute;
+  right: 3%;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+.react-pass-icons {
+  color: #9426b2;
+  opacity: 0.7;
+}
+
+
+/************************************************ Media Queries ***************************************/

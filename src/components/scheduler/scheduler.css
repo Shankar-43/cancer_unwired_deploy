@@ -1,0 +1,176 @@
+.scheduler-container {
+  margin-top: 80px;
+}
+.GM-heading {
+  font-size: 21px;
+  font-weight: 700;
+  color: #713c8f;
+  margin-top: 15px;
+}
+/* .cal-button,.cal-button:hover{
+    background: #223645 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #FBFBFB;
+}
+.cal-button:focus{
+    background:#F37721;
+  } */
+
+.appointment-container {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border: 1px solid #e3e3e3;
+  border-radius: 5px;
+  padding-bottom: 10px;
+  margin-top: 65px;
+}
+.appointmentDetails {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border: 2px solid #eeeeee;
+  border-radius: 5px;
+  margin: 10px;
+  height: 200px;
+  color: #223645;
+}
+.appointmentDetails:focus,
+.appointmentDetails:active {
+  border: 2px solid #5b0374;
+  color: #9426b2;
+}
+.appointment-day {
+  font-size: 14px;
+  font-weight: 600;
+}
+.appointment-count {
+  font-size: 58px;
+  font-weight: 700;
+}
+.Consultations {
+  font-size: 21px;
+  font-weight: 700;
+}
+
+.btn.viewAll-button {
+  background: #f37721 0% 0% no-repeat padding-box;
+  border-radius: 3px;
+  width: 80%;
+  font-size: 16px;
+  font-weight: 400;
+  color: #ffffff;
+  text-shadow: 0px 3px 6px #00000029;
+  height: 80px;
+}
+
+/* -----MONTH ---- */
+.rbc-toolbar .rbc-toolbar-label {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border: 1px solid #e3e3e3;
+  border-radius: 5px;
+  /* padding: 8px; */
+  height: 40px;
+}
+.rbc-toolbar-label {
+  font-size: 14px;
+  font-weight: 500;
+  color: #223645;
+}
+
+.rbc-btn-group button {
+  background: #223645 0% 0% no-repeat padding-box;
+  border-color: #223645;
+  font-size: 14px;
+  font-weight: 500;
+  color: #fbfbfb;
+  margin: 10px;
+}
+
+.rbc-toolbar button:active,
+.rbc-toolbar button.rbc-active {
+  background-color: #223645;
+}
+
+/* .rbc-toolbar button:active, */
+.rbc-toolbar button.rbc-active:focus {
+  color: #fbfbfb;
+  background-color: #f37721;
+  border-color: #f37721;
+}
+/* .rbc-toolbar button:active:hover,
+.rbc-toolbar button:active:focus {
+  color: #fbfbfb;
+  background-color: #f37721;
+  border-color: #f37721;
+} */
+.rbc-header {
+  font-size: 14px;
+  font-weight: 600;
+  color: #9426b2;
+  padding: 10px 0px;
+  border: none;
+}
+.rbc-header + .rbc-header {
+  border-left: none;
+}
+.rbc-month-view {
+  border: none;
+}
+.rbc-month-row + .rbc-month-row {
+  border-top: none;
+}
+.rbc-day-bg {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border: 2px solid #eeeeee;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+.rbc-event,
+.rbc-day-slot .rbc-background-event {
+  width: 80%;
+  margin-left: 20px;
+  background: #223645 0% 0% no-repeat padding-box;
+  border-radius: 3px;
+  padding: 8px;
+}
+
+.rbc-row-segment .rbc-event-content {
+  font-size: 14px;
+}
+/* ---week---- */
+.rbc-time-view .rbc-row {
+  min-height: auto;
+}
+.rbc-button-link {
+  font-weight: 600;
+}
+.rbc-label {
+  font-size: 14px;
+  font-weight: 600;
+  color: #9426b2;
+}
+.rbc-show-more {
+  margin-left: 20px;
+}
+.freeslot {
+  height: 20px;
+  width: 20px;
+  background-color: #223645;
+}
+.booked {
+  height: 20px;
+  width: 20px;
+  background-color: #f37721;
+}
+.rbc-agenda-time-cell {
+  color: white;
+}
+.rbc-agenda-event-cell {
+  color: white;
+}
+.rbc-agenda-date-cell {
+  color: white;
+}

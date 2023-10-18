@@ -1,0 +1,46 @@
+.quarter-calender-container{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 5px;  
+    /* height: 100%; */
+    padding: 20px 20px -10px 20px;
+    margin: 20px 20px 0px 20px;
+    padding: 20px 20px 0px 20px;
+}
+.quarter-monthSelection{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border: 1px solid #E3E3E3;
+    border-radius: 5px;
+    padding: 8px;
+    margin-right: auto;
+    margin-left: auto;
+    /* width: 90%; */
+}
+.quarter-monthName{
+    font-size: 14px;
+    font-weight: 500;
+    color: #223645;
+}
+/* ------------ */
+.quarter-container{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border: 1px solid #E3E3E3;
+    border-radius: 5px;
+}
+.quarterName{
+    font-size: 21px;
+    font-weight: 700;
+    color: #713C8F;
+}
+.quarter-months{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #E3E3E3;
+    border-radius: 3px;
+}
+.q-monthName{
+    font-size: 14px;
+    font-weight: 600;
+    color: #9426B2;
+}
