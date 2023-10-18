@@ -11,8 +11,8 @@
 //               <div className="col-sm-2">
 //                 <h2 className="GM-heading">Good Morning Doctor!</h2>
 //                 <div className="appointment-container">
-//                   <div className="row appointmentDetails p-3" tabindex="0">
-//                     <h3 className="appointment-day text-center" tabindex="0">
+//                   <div className="row appointmentDetails p-3"  tabIndex="0">
+//                     <h3 className="appointment-day text-center"  tabIndex="0">
 //                       Appointments Today
 //                     </h3>
 //                     <h2 className="appointment-count text-center">1</h2>
@@ -20,7 +20,7 @@
 //                       Consultations Scheduled
 //                     </h3>
 //                   </div>
-//                   <div className="row appointmentDetails p-3" tabindex="0">
+//                   <div className="row appointmentDetails p-3"  tabIndex="0">
 //                     <h3 className="appointment-day text-center">
 //                       Appointments Tomorrow
 //                     </h3>
@@ -29,7 +29,7 @@
 //                       Consultations Scheduled
 //                     </h3>
 //                   </div>
-//                   <div className="row appointmentDetails p-3" tabindex="0">
+//                   <div className="row appointmentDetails p-3"  tabIndex="0">
 //                     <h3 className="appointment-day text-center">
 //                       Appointments on Friday
 //                     </h3>
@@ -84,8 +84,8 @@ const Scheduler = () => {
               <div className="col-sm-2">
                 <h2 className="GM-heading">Good Morning Doctor!</h2>
                 <div className="appointment-container">
-                  <div className="row appointmentDetails p-3 m-2" tabindex="0">
-                    <h3 className="appointment-day text-center" tabindex="0">
+                  <div className="row appointmentDetails p-3 m-2"  tabIndex="0">
+                    <h3 className="appointment-day text-center"  tabIndex="0">
                       Appointments Today
                     </h3>
                     <h2 className="appointment-count text-center">
@@ -95,7 +95,7 @@ const Scheduler = () => {
                       Consultations Scheduled
                     </h3>
                   </div>
-                  <div className="row appointmentDetails p-3 m-2" tabindex="0">
+                  <div className="row appointmentDetails p-3 m-2"  tabIndex="0">
                     <h3 className="appointment-day text-center">
                       Appointments Tomorrow
                     </h3>
@@ -106,7 +106,7 @@ const Scheduler = () => {
                       Consultations Scheduled
                     </h3>
                   </div>
-                  <div className="row appointmentDetails p-3 m-2" tabindex="0">
+                  <div className="row appointmentDetails p-3 m-2"  tabIndex="0">
                     <h3 className="appointment-day text-center">
                       Appointments on Day After Tomorrow
                     </h3>

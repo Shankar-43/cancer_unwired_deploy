@@ -22,8 +22,8 @@ const SchedulerMonth = () => {
           </div>
 
           <div className="appointment-container">
-            <div className="row appointmentDetails p-3" tabindex="0">
-              <h3 className="appointment-day text-center" tabindex="0">
+            <div className="row appointmentDetails p-3"  tabIndex="0">
+              <h3 className="appointment-day text-center"  tabIndex="0">
                 Appointments Today
               </h3>
               <h2 className="appointment-count text-center">1</h2>
@@ -31,7 +31,7 @@ const SchedulerMonth = () => {
                 Consultations Scheduled
               </h3>
             </div>
-            <div className="row appointmentDetails p-3" tabindex="0">
+            <div className="row appointmentDetails p-3"  tabIndex="0">
               <h3 className="appointment-day text-center">
                 Appointments Tomorrow
               </h3>
@@ -40,7 +40,7 @@ const SchedulerMonth = () => {
                 Consultations Scheduled
               </h3>
             </div>
-            <div className="row appointmentDetails p-3" tabindex="0">
+            <div className="row appointmentDetails p-3"  tabIndex="0">
               <h3 className="appointment-day text-center">
                 Appointments on Friday
               </h3>
